@@ -4,7 +4,7 @@
     "title": "Amazon Web Services (AWS) Global Data Center & Power Fleet \u2014 Existing vs. Proposed Interactive Atlas",
     "date": "2026-11-06",
     "author": "Marvin (Oakcliff Capital)",
-    "total_sites": 112
+    "total_sites": 110
   },
   "features": [
     {
@@ -531,11 +531,11 @@
         "category": "Proposed: Under Construction",
         "facility_type": "Data center",
         "mw": 140.0,
-        "mw_label": "~140 MW est.",
-        "power_type": "SWEPCO (Southwestern Electric Power Company) \u2014 Amazon is covering 100% of grid connection costs. The two campuses were placed on separate transmission lines for redundancy across the Red River. SWEPCO is the utility provider.",
-        "water_cooling": "unknown \u2014 Amazon says it will fund all water and wastewater improvements required by the projects, investing up to $400 million in public water infrastructure across its northwest Louisiana ",
-        "permits_outstanding": "Status: Under construction. Community: MIXED. Protesters at the February 2026 announcement raised water-use and environmental concerns about the northwest Louisiana program. Amazon's campuses are expected to become the largest",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-08-27)",
+        "mw_label": "~140 MW est. (part of $18B 3-campus STACK-owned LA program updated Aug. 18, 2026)",
+        "power_type": "SWEPCO (Amazon pays 100% of grid connection & new energy infrastructure costs)",
+        "water_cooling": "Direct evaporative / hybrid cooling",
+        "permits_outstanding": "Under construction (developed & owned by STACK Infrastructure for AWS; updated $18B 3-campus Louisiana program).",
+        "confidence": "HIGH (Amazon Aug. 18, 2026 release) / LOW (site MW est.)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -587,11 +587,11 @@
         "category": "Proposed: Under Construction",
         "facility_type": "Data center",
         "mw": 140.0,
-        "mw_label": "~140 MW est.",
-        "power_type": "SWEPCO (Southwestern Electric Power Company) \u2014 Amazon is covering 100% of grid connection costs. The two campuses were placed on separate transmission lines for redundancy across the Red River. SWEPCO is the utility provider.",
-        "water_cooling": "unknown \u2014 Amazon says it will fund all water and wastewater improvements required by the projects, investing up to $400 million in public water infrastructure across its northwest Louisiana ",
-        "permits_outstanding": "Status: Under construction. Community: MIXED. Protesters at the February 2026 announcement raised water-use and environmental concerns about the northwest Louisiana program. Amazon's campuses are expected to become the largest",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-08-27)",
+        "mw_label": "~140 MW est. (part of $18B 3-campus STACK-owned LA program updated Aug. 18, 2026)",
+        "power_type": "SWEPCO (Amazon pays 100% of grid connection & new energy infrastructure costs)",
+        "water_cooling": "Direct evaporative / hybrid cooling",
+        "permits_outstanding": "Under construction (developed & owned by STACK Infrastructure for AWS; updated $18B 3-campus Louisiana program).",
+        "confidence": "HIGH (Amazon Aug. 18, 2026 release) / LOW (site MW est.)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -1651,11 +1651,11 @@
         "category": "Proposed: Early Stage",
         "facility_type": "Data center",
         "mw": 500.0,
-        "mw_label": "~500 MW est. ($6.00B inv.)",
-        "power_type": "Southwestern Electric Power Company (SWEPCO) \u2014 Amazon says it will coordinate with SWEPCO to fully fund the new energy infrastructure and grid upgrades required.",
-        "water_cooling": "unknown \u2014 Amazon states it will fund all water and wastewater improvements required by the projects, investing up to $400 million in public water infrastructure across its three northwest Lo",
-        "permits_outstanding": "Status: Proposed. Community: LITIGATION. The west Shreveport announcement was pulled from the February 2026 state event after a suit by three plaintiffs and the Sierra Club Delta Chapter; the case remains in the Second Ci",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (reported, updated 2026-10-17)",
+        "mw_label": "~500 MW est. (3rd campus in $18B STACK-owned LA program added Aug. 18, 2026)",
+        "power_type": "SWEPCO (Amazon pays 100% of grid connection & new energy infrastructure costs)",
+        "water_cooling": "Direct evaporative / hybrid cooling",
+        "permits_outstanding": "Proposed (3rd STACK-owned campus announced Aug. 18, 2026 raising LA total from $12B to $18B; local zoning contested).",
+        "confidence": "HIGH (Amazon Aug. 18, 2026 release) / LOW (site MW est.)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -2015,11 +2015,11 @@
         "category": "Partner / Dedicated Power",
         "facility_type": "Dedicated Power Station",
         "mw": 320.0,
-        "mw_label": "320 MW",
-        "power_type": "nuclear \u2014 X-energy Xe-100 high-temperature gas-cooled small modular reactors, 80 MWe per module, 60-year design life. Initial deployment is 4 modules (320 MW); the site is licensed for up to",
-        "water_cooling": "Direct evaporative / free-air (<10% yr water use; global WUE 0.12 L/kWh)",
-        "permits_outstanding": "Status: Proposed. Community: UNKNOWN. No organized community opposition documented in the cited sources as of July 2026 -- not confirmed absent, simply not found. Coverage describes general regional interest tied to jo",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-08-22)",
+        "mw_label": "320 MW initial (4 x 80 MW Xe-100 SMRs; site will be licensed for up to 12 modules / 960 MW)",
+        "power_type": "Nuclear SMR (Energy Northwest & X-energy partnership; 5 GW by 2039 program)",
+        "water_cooling": "Columbia River industrial water supply",
+        "permits_outstanding": "Proposed (feasibility & NRC licensing due diligence underway; site will be licensed for up to 12 modules / 960 MW).",
+        "confidence": "HIGH (Energy Northwest & Amazon 2025 Sust. Report p. 11)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -2042,12 +2042,12 @@
         "status": "Operational",
         "category": "Partner / Dedicated Power (Operational)",
         "facility_type": "Dedicated Power Station",
-        "mw": 2400.0,
-        "mw_label": "2400 MW",
-        "power_type": "nuclear \u2014 Existing two-unit pressurized-water reactor station (~2,400 MW), operating since the 1990s and delivering into ERCOT. 1,200 MW is contracted to AWS under a 20-year PPA.",
-        "water_cooling": "Direct evaporative / free-air (<10% yr water use; global WUE 0.12 L/kWh)",
-        "permits_outstanding": "Status: Operational. The two-unit Comanche Peak nuclear station near Glen Rose, TX, whose 1,200 MW 20-year PPA to Amazon (announced 2025, customer confirmed Feb 2026) underpins AWS's adjacent 'Project ",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-10-28)",
+        "mw": 1200.0,
+        "mw_label": "1,200 MW AWS PPA (at 2,400 MW Comanche Peak nuclear station; initial 2027, full ramp 2032)",
+        "power_type": "Nuclear PPA (Vistra 20-year PPA delivering into ERCOT for AWS)",
+        "water_cooling": "Squaw Creek Reservoir cooling",
+        "permits_outstanding": "Operational plant (2,400 MW); AWS 20-yr PPA for up to 1,200 MW starts Q4 2027 and ramps through 2032.",
+        "confidence": "HIGH (Vistra FY2025 Results Release Feb. 26, 2026)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -2076,62 +2076,6 @@
         "water_cooling": "Direct evaporative / free-air (<10% yr water use; global WUE 0.12 L/kWh)",
         "permits_outstanding": "Status: Under construction. Second of Entergy Mississippi's three new combined-cycle stations (with Delta Blues/Greenville and Vicksburg). Entergy locates it 'north of West County Line Road, between Livingsto",
         "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-09-09)",
-        "url": "https://sustainability.aboutamazon.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.74,
-          32.69
-        ]
-      },
-      "properties": {
-        "id": "stack-bossier-parish-la",
-        "name": "Bossier Parish Campus (with Amazon)",
-        "operator": "STACK Infrastructure",
-        "location": "Benton, LA",
-        "country": "US",
-        "region": "North America",
-        "status": "Under construction",
-        "category": "Partner / Dedicated Power",
-        "facility_type": "Data center",
-        "mw": 140.0,
-        "mw_label": "~140 MW est.",
-        "power_type": "Southwestern Electric Power Company (SWEPCO) \u2014 Amazon is partnering with SWEPCO and states it pays 100% of the costs associated with the new data center campus in Louisiana.",
-        "water_cooling": "Direct evaporative / free-air (<10% yr water use; global WUE 0.12 L/kWh)",
-        "permits_outstanding": "Status: Under construction. Companion site to the Blanchard/Caddo Parish campus; same ~$12,000,000,000 combined Amazon/STACK investment.",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-09-15)",
-        "url": "https://sustainability.aboutamazon.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.9,
-          32.58
-        ]
-      },
-      "properties": {
-        "id": "stack-caddo-parish-la",
-        "name": "Caddo Parish Campus (with Amazon)",
-        "operator": "STACK Infrastructure",
-        "location": "Blanchard, LA",
-        "country": "US",
-        "region": "North America",
-        "status": "Under construction",
-        "category": "Partner / Dedicated Power",
-        "facility_type": "Data center",
-        "mw": 140.0,
-        "mw_label": "~140 MW est.",
-        "power_type": "Southwestern Electric Power Company (SWEPCO) \u2014 Amazon is partnering with SWEPCO and states it pays 100% of the costs associated with the new data center campus in Louisiana.",
-        "water_cooling": "Direct evaporative / free-air (<10% yr water use; global WUE 0.12 L/kWh)",
-        "permits_outstanding": "Status: Under construction. Part of a ~$12,000,000,000 combined Amazon/STACK investment spanning this Caddo Parish campus and the companion Bossier Parish campus (Benton, LA).",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-09-15)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -2182,12 +2126,12 @@
         "status": "Operational",
         "category": "Partner / Dedicated Power (Operational)",
         "facility_type": "Dedicated Power Station",
-        "mw": 2514.0,
-        "mw_label": "2514 MW",
-        "power_type": "nuclear \u2014 Existing 2,514 MW two-unit (BWR) plant, operating since the 1980s. Up to 1,920 MW earmarked for AWS via a front-of-meter retail power supply PPA through 2042 (announced 2025-06-11)",
-        "water_cooling": "Direct evaporative / free-air (<10% yr water use; global WUE 0.12 L/kWh)",
-        "permits_outstanding": "Status: Operational. Community: UNKNOWN. American Electric Power (AEP) and Exelon formally intervened at FERC against the co-located behind-the-meter ISA amendment, arguing it could shift up to $140 million/year in transm",
-        "confidence": "HIGH/MEDIUM \u2014 Compute Atlas (confirmed, updated 2026-07-11)",
+        "mw": 1920.0,
+        "mw_label": "1,920 MW AWS PPA (at 2,514 MW Susquehanna nuclear station; full ramp by 2032 through 2042)",
+        "power_type": "Nuclear PPA (Talen Energy front-of-meter PJM/PPL delivery to AWS PA sites)",
+        "water_cooling": "Susquehanna River cooling towers",
+        "permits_outstanding": "Operational plant (2,514 MW); AWS 1,920 MW PPA ramps to full volume no later than 2032 through 2042.",
+        "confidence": "HIGH (Talen Energy June 11, 2025 8-K & Amazon 2025 Sust. Report p. 11)",
         "url": "https://sustainability.aboutamazon.com/"
       }
     },
@@ -2991,14 +2935,70 @@
         "location": "Potsdam / Berlin, Germany",
         "country": "Germany",
         "region": "EMEA",
-        "status": "Under construction",
-        "category": "Proposed: Under Construction",
+        "status": "Operational",
+        "category": "Existing (Operational)",
         "facility_type": "Data center (Cloud Region)",
         "mw": 250.0,
-        "mw_label": "~200\u2013300 MW planned (3 AZs; \u20ac7.8B investment through 2040)",
+        "mw_label": "~200\u2013300 MW est. (3 AZs launched Jan. 15, 2026; \u20ac7.8B investment through 2040)",
         "power_type": "50Hertz Grid + German wind/solar PPAs",
         "water_cooling": "Hybrid air / closed-loop cooling",
-        "permits_outstanding": "Under construction (first EU-controlled sovereign cloud region).",
+        "permits_outstanding": "Operational (launched General Availability Jan. 15, 2026; first EU-controlled sovereign cloud region).",
+        "confidence": "HIGH (AWS Global Infrastructure & 2025 Sustainability Report) / MEDIUM (Regional MW)",
+        "url": "https://aws.amazon.com/about-aws/global-infrastructure/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654,
+          25.033
+        ]
+      },
+      "properties": {
+        "id": "aws-ap-east-2-taipei",
+        "name": "AWS Asia Pacific (Taipei) Region",
+        "operator": "Amazon Web Services",
+        "location": "Taipei, Taiwan",
+        "country": "Taiwan",
+        "region": "APAC",
+        "status": "Operational",
+        "category": "Existing (Operational)",
+        "facility_type": "Data center (Cloud Region)",
+        "mw": 180.0,
+        "mw_label": "~150\u2013220 MW est. (3 AZs launched June 2025; $5B+ investment)",
+        "power_type": "Taipower Grid + offshore wind/solar PPAs",
+        "water_cooling": "Hybrid closed-loop cooling",
+        "permits_outstanding": "Operational (launched June 2025 with 3 AZs).",
+        "confidence": "HIGH (AWS Global Infrastructure & 2025 Sustainability Report) / MEDIUM (Regional MW)",
+        "url": "https://aws.amazon.com/about-aws/global-infrastructure/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7633,
+          -36.8485
+        ]
+      },
+      "properties": {
+        "id": "aws-ap-southeast-6-auckland",
+        "name": "AWS Asia Pacific (New Zealand) Region \u2014 Auckland",
+        "operator": "Amazon Web Services",
+        "location": "Auckland, New Zealand",
+        "country": "New Zealand",
+        "region": "APAC",
+        "status": "Operational",
+        "category": "Existing (Operational)",
+        "facility_type": "Data center (Cloud Region)",
+        "mw": 120.0,
+        "mw_label": "~100\u2013150 MW est. (3 AZs launched Sept. 2025; NZ$7.5B / $4.6B investment)",
+        "power_type": "NZ Grid (~85% hydro/geothermal) + 51 MW Mercury wind PPA",
+        "water_cooling": "Outside-air cooling >95% of year",
+        "permits_outstanding": "Operational (launched Sept. 2025 with 3 AZs).",
         "confidence": "HIGH (AWS Global Infrastructure & 2025 Sustainability Report) / MEDIUM (Regional MW)",
         "url": "https://aws.amazon.com/about-aws/global-infrastructure/"
       }
@@ -3026,62 +3026,6 @@
         "mw_label": "~200\u2013300 MW planned (3 AZs; $5.3B investment announced March 2024, target 2026\u20132027)",
         "power_type": "SEC Grid + Saudi solar PPAs",
         "water_cooling": "100% waterless cooling design",
-        "permits_outstanding": "Under construction.",
-        "confidence": "HIGH (AWS Global Infrastructure & 2025 Sustainability Report) / MEDIUM (Regional MW)",
-        "url": "https://aws.amazon.com/about-aws/global-infrastructure/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5654,
-          25.033
-        ]
-      },
-      "properties": {
-        "id": "aws-ap-east-2-taipei",
-        "name": "AWS Asia Pacific (Taipei) Region",
-        "operator": "Amazon Web Services",
-        "location": "Taipei, Taiwan",
-        "country": "Taiwan",
-        "region": "APAC",
-        "status": "Under construction",
-        "category": "Proposed: Under Construction",
-        "facility_type": "Data center (Cloud Region)",
-        "mw": 180.0,
-        "mw_label": "~150\u2013220 MW planned (3 AZs; multi-billion investment announced June 2024)",
-        "power_type": "Taipower Grid + offshore wind/solar PPAs",
-        "water_cooling": "Hybrid closed-loop cooling",
-        "permits_outstanding": "Under construction.",
-        "confidence": "HIGH (AWS Global Infrastructure & 2025 Sustainability Report) / MEDIUM (Regional MW)",
-        "url": "https://aws.amazon.com/about-aws/global-infrastructure/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          174.7633,
-          -36.8485
-        ]
-      },
-      "properties": {
-        "id": "aws-ap-southeast-6-auckland",
-        "name": "AWS Asia Pacific (New Zealand) Region \u2014 Auckland",
-        "operator": "Amazon Web Services",
-        "location": "Auckland, New Zealand",
-        "country": "New Zealand",
-        "region": "APAC",
-        "status": "Under construction",
-        "category": "Proposed: Under Construction",
-        "facility_type": "Data center (Cloud Region)",
-        "mw": 120.0,
-        "mw_label": "~100\u2013150 MW planned (3 AZs; NZ$7.5B / $4.6B investment)",
-        "power_type": "NZ Grid (~85% hydro/geothermal) + 51 MW Mercury wind PPA",
-        "water_cooling": "Outside-air cooling >95% of year",
         "permits_outstanding": "Under construction.",
         "confidence": "HIGH (AWS Global Infrastructure & 2025 Sustainability Report) / MEDIUM (Regional MW)",
         "url": "https://aws.amazon.com/about-aws/global-infrastructure/"
